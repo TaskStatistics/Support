@@ -10,4 +10,4 @@ Then you must need it. Record the task schedule of each member, add tasks, check
 Personal efficiency statistics, personnel management is all right. It is a good helper for your management team, recording tasks and improving efficiency!
 
 
-![image](https://github.com/TaskStatistics/Support/blob/master/1.jpg)
+![image](https://github.com/TaskStatistics/Support/blob/master/1.png)
